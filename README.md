@@ -1,3 +1,9 @@
+## Read this, then below.
+
+For this to work, you will need to edit main.py to add your youtube api key and the id of the account whose subscriptions you want to clone. You may also need to set that account's list of subscriptions to 'public'; it's been a long time since I wrote this.
+
+---
+
 ## Python Flask Skeleton for Google App Engine
 
 ![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)

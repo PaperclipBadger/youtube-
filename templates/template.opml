@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Youtube Subscriptions for PaperclipBadger as of {time!s}</title>
+  </head>
+  <body>
+    {folders!s}
+    {subscriptions!s}
+  </body>
+</opml>

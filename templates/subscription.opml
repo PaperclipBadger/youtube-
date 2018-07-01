@@ -1,0 +1,4 @@
+<outline title="{name!s}" text="{name!s}"
+  htmlUrl="https://www.youtube.com/channel/{guid!s}"
+  xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id={guid!s}"
+  type="rss"/>

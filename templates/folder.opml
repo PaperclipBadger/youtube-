@@ -1,0 +1,4 @@
+<outline title="{name!s}" text="{name!s}">
+  {folders!s}
+  {subscriptions!s}
+</outline>
